@@ -1,7 +1,6 @@
 # Santa-filter-facial-keypoint-regression
 
-A selfie filter implemented using Deep Learning and OpenCV.
-Full documentation: https://medium.com/@rohit_agrawal/implementing-snapchat-like-filters-using-deep-learning-13551940b174
+A selfie filter implemented using Deep Learning and OpenCV
 
 **Dataset:** https://www.kaggle.com/c/facial-keypoints-detection/data
 
@@ -13,6 +12,5 @@ Once the model was complete, I used OpenCV to get live data from the webcam for 
 
 I came up with the idea for the project on 21 December 2018, Hence the Christmas theme :P.
 
-**Sample Output**
 
-![bleh](https://user-images.githubusercontent.com/29514438/50378212-d01a9a00-0652-11e9-8d45-de6ec1f13dd8.PNG)
+
