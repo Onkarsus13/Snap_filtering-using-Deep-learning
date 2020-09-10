@@ -1,10 +1,10 @@
-# Santa-filter-facial-keypoint-regression
+
 
 A selfie filter implemented using Deep Learning and OpenCV
 
 **Dataset:** https://www.kaggle.com/c/facial-keypoints-detection/data
 
-**Methodology**
+
 
 Data from the dataset was augmented by flipping the images and their keypoints. I then used a CNN as the feature extractor, flattened the outputs and passed them into a fully connected ANN to perform facial keypoint regression. Metric used was 'Mean Absolute Loss', the model's best was ~0.0113 after being trained for 300 epochs using adam optimizer.
 
